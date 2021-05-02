@@ -1,10 +1,11 @@
 ---
-authors: ""
-categories: ""
+authors: []
+categories: []
 date: ""
-slides:""
-summary: ""
-tags:""
-title: ""
+slides:
+  highlight_style: 
+  theme: 
+summary: 
+tags: []
+title: 
 ---
-
