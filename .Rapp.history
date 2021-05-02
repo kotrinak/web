@@ -1,0 +1,3 @@
+blogdown::hugo_build()
+blogdown::hugo_build()
+getwd()

@@ -1,0 +1,22 @@
+# Theme metadata
+name = "custom"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#000000" # social media icons
+
+# Menu
+menu_primary = "rgb(255,255,255)" # top strip
+menu_text =  "rgb(0,0,0)"
+menu_text_active =  "rgb(0,0,0)"
+menu_title = "rgb(211,211,211)" #"rgb(90,90,90)" #"rgb(112,128,144)"
+
+
+# Home sections
+background = "#fff"
+home_section_odd = "rgb(255,255,255)"
+home_section_even = "rgb(255,255,255)"
+
+font = "rose"
