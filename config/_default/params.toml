@@ -24,6 +24,8 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "M"
 
+show_related = {docs = false, page = false, post = false, project = false, publication = false, talk = false}
+
 ############################
 ## Basic Info
 ############################
