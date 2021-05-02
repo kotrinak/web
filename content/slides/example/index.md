@@ -1,11 +1,11 @@
 ---
-authors: []
-categories: []
+authors:
+categories:
 date: ""
 slides:
   highlight_style: 
   theme: 
 summary: 
-tags: []
+tags:
 title: 
 ---
